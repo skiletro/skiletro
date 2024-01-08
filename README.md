@@ -1,8 +1,15 @@
-## hi, i'm jamie!
-i'm currently a 3rd year bsc computer science student with a current interest in nix(os), css styling, and custom keyboards!
+<div align=center>
+  <h2>hi, i'm jamie!</h2>
+  <p>
+    i'm currently a 3rd year bsc computer science student with a current interest
+    in nix(os), css styling, linux ricing, and custom keyboards!
+  </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,cs,nix,linux,latex,bash)](https://skillicons.dev)
+  <p></p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,sass,figma,cs,java,nix,linux,latex,bash&perline=5"></a>
 
-### links (w/ past work)
-[website](https://skilet.ro)
-[behance](https://www.behance.net/skiletro) - quite old design work i did which utilised figma extensively
+  <h3>links (w/ past work)</h3>
+  <a href="https://skilet.ro">website</a>
+
+  <a href="https://www.behance.net/skiletro">behance</a>
+</div>
