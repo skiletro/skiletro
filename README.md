@@ -1,7 +1,7 @@
 <div align=center>
   <h2>hi, i'm jamie!</h2>
   <p>
-    i'm currently a 3rd year bsc computer science student with a current interest
+    i'm a recent bsc computer science graduate with a current interest
     in nix(os), css styling, linux ricing, and custom keyboards!
   </p>
 
@@ -11,5 +11,7 @@
   <h3>links (w/ past work)</h3>
   <a href="https://skilet.ro">website</a>
 
-  <a href="https://www.behance.net/skiletro">behance</a>
+  <a href="https://www.behance.net/skiletro">old graphics portfolio</a>
+  
+  contact me <a href="https://matrix.to/#/@jvmi:matrix.org">here</a>
 </div>
