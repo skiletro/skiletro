@@ -5,6 +5,8 @@
     in nix(os), css styling, linux ricing, and custom keyboards!
   </p>
 
+  <img src="https://wt.warm.vodka/api/badge/jamie/interval:any">
+
   <p></p>
   <a href="#"><img src="https://skillicons.dev/icons?i=nix,cs,go,html,css,sass,haskell,java,dotnet,linux,bash,godot,unity"></a>
 
