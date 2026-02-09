@@ -1,7 +1,7 @@
 <div>
   <h2>hi, i'm jamie!</h2>
   <p>
-    i'm a computer science graduate with a current interest
+    i'm a junior software developer with a current interest
     in nix(os), css styling, linux ricing, and custom keyboards!
   </p>
 
