@@ -10,7 +10,7 @@
   <img src="https://wakapi.warm.vodka/api/badge/jamie/jamie/interval:30_days?label=last%2030d">
 
   <p></p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nix,cs,go,html,css,sass,haskell,java,dotnet,linux,bash,godot,unity"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nix,cs,kotlin,androidstudio,go,html,sass,haskell,linux,bash,godot,unity&perline=6"></a>
 
   <h3>links (w/ past work)</h3>
   <a href="https://skilet.ro">website</a>
