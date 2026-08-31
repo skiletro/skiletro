@@ -5,7 +5,7 @@
     in nix(os), css styling, linux ricing, and custom keyboards!
   </p>
 
-  <a href="https://buymeacoffee.com/skiletro"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-violet.svg"></a>
+  <a href="https://ko-fi.com/skiletro"><img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?style=default&logo=ko-fi&logoColor=white"></a>
   <img src="https://wakapi.warm.vodka/api/badge/jamie/interval:today?label=today">
   <img src="https://wakapi.warm.vodka/api/badge/jamie/jamie/interval:30_days?label=last%2030d">
 
